@@ -1,15 +1,63 @@
 
 body {
-    background-color: brown
+    background-color: #C0CAAD
 }
 
+h1 {
+    color: #514f4f;
+    text-align: center;
+}
 
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-shadow: 2px 2px rgb(149, 218, 164);
+}
+
+h1 {
+    background-color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px 20px;
+}
+
+h1 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    margin: 20px;
+}
 
 p {
-    color: blue; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    line-height: 1.8;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase
+
 }
+
+div {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
 
 h2 {
-    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    color: #754c41
+    
 }
 
+#myarticle {
+        text-align: center;
+        padding: 30px;
+    }
